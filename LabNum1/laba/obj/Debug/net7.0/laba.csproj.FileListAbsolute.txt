@@ -1,0 +1,14 @@
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\bin\Debug\net7.0\laba.exe
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\bin\Debug\net7.0\laba.deps.json
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\bin\Debug\net7.0\laba.runtimeconfig.json
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\bin\Debug\net7.0\laba.dll
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\bin\Debug\net7.0\laba.pdb
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\obj\Debug\net7.0\laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\obj\Debug\net7.0\laba.AssemblyInfoInputs.cache
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\obj\Debug\net7.0\laba.AssemblyInfo.cs
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\obj\Debug\net7.0\laba.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\obj\Debug\net7.0\laba.dll
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\obj\Debug\net7.0\refint\laba.dll
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\obj\Debug\net7.0\laba.pdb
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\obj\Debug\net7.0\laba.genruntimeconfig.cache
+C:\Users\Gleb\Documents\ProgrammCs\ChelGU Labs\LabNum1\laba\obj\Debug\net7.0\ref\laba.dll
